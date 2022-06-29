@@ -29,7 +29,7 @@
 
 - GitHub: [@SurafelGetachewT](https://github.com/SurafelGetachewT)
 - Twitter: [@SuraGetch](https://twitter.com/SuraGetch)
-- LinkedIn:  [Surafel Getachew](https://www.linkedin.com/in/surafel-getachew-80155b187/)
+- LinkedIn:  [Linkedin](https://www.linkedin.com/in/surafel-getachew-80155b187/)
 
 ## 🤝 Contributing
 
